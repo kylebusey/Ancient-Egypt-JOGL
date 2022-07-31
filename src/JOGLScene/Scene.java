@@ -31,7 +31,7 @@ public class Scene extends GLJPanel implements GLEventListener, KeyListener {
 
 
     public static void main(String[] args) {
-        JFrame window = new JFrame("Ancient Egypt"); //title of JFrame
+        JFrame window = new JFrame("Ancient Egypt");
         Scene panel = new Scene();
         window.setContentPane(panel);
         window.pack();
@@ -42,8 +42,8 @@ public class Scene extends GLJPanel implements GLEventListener, KeyListener {
     }
 
     public Scene() {
-        super(new GLCapabilities(null)); //create new Scene
-        setPreferredSize( new Dimension(700, 500) ); //Requirement met
+        super(new GLCapabilities(null));
+        setPreferredSize( new Dimension(700, 500) );
         addGLEventListener(this);
         addKeyListener(this);
     }
