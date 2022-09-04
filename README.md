@@ -5,6 +5,11 @@
 ## About
 Ancient Egypt is a Java OpenGL project intended to showcase some of the features of the interface in order to obtain a better understanding of graphical programs.
 
+## Example Use
+Below is a screenshot of the program when ran. Once at the default state of the program, the user can choose how to alter the program based on the implemented keystrokes that transform the shapes. Refer to the features list below for a list of possible transformations.
+![ProgramExample](Ancient_Egypt_Example.png)
+
+
 ---
 ## Features
 - Creates a scene with custom shapes that are drawn by using two-dimensional arrays.
