@@ -13,7 +13,7 @@ Below is a screenshot of the program when ran. Once at the default state of the 
 
 ---
 ## Features
-- Creates a scene with custom shapes that are drawn by using two-dimensional arrays.
+- Creates a scene with custom shapes that are graphed and drawn using two-dimensional arrays.
 - **Rotate** the scene using the **arrow keys** on your keyboard for each respective direction.
 - **Rotate** the Z-axis by using the **Page Up/Page Down** keys.
 - **Scale** the scene by 10% or 20% by using the **1** or **2** keys respectively. 
